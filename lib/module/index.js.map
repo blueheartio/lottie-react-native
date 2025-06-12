@@ -1,0 +1,1 @@
+{"version":3,"names":["LottieView","NativeLottieAnimationView","Commands","LottieCommands"],"sourceRoot":"../../src","sources":["index.tsx"],"mappings":"AAAA,SAASA,UAAU,QAAQ,cAAc;AACzC,OAAOC,yBAAyB,IAAIC,QAAQ,QAAQ,4CAA4C;AAChG,MAAMC,cAAc,GAAGD,QAAQ;AAC/B,SAASC,cAAc,EAAEF,yBAAyB;AAClD,cAAc,SAAS;AACvB,eAAeD,UAAU","ignoreList":[]}
