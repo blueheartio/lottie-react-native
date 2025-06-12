@@ -71,7 +71,7 @@ export interface NativeProps extends ViewProps {
 
 type LottieViewNativeComponentType = HostComponent<NativeProps>;
 
-interface NativeCommands {
+export interface NativeCommands {
   play: (
     viewRef: React.ElementRef<LottieViewNativeComponentType>,
     startFrame: Int32,
